@@ -10,6 +10,7 @@ In case more entries than just the NPC's offers show up just type some more lett
 * **Baxter (Tha** or **Baxter Thais** instead of **Baxter** 
 * **Rashid/** instead of just **Rashid** 
 
+
 ## Contributions
 Feel free to submit pull requests in case you find missing items or wrong data, or simply open a new issue for it.
 All contributions are appreciated :smile: :cookie:
